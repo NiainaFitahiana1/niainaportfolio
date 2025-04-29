@@ -43,7 +43,7 @@
       "description": "Mise en place d’une application web de gestion guichet d’un stationnement qui vient de digitaliser Fasankarana.",
       "technologies": ["Flask", "Jinja2", "Bootstrap", "MongoDB"],
       "lien": "http://github.com/niaina/fikoma.git",
-      "source": "http://github.com/niaina/fikoma.git"
+      "source": "https://github.com/NiainaFitahiana1/gestion_guichet"
     },
     {
       "titre": "Stagiaire développeur Java Spring Boot",
@@ -63,7 +63,7 @@
       "description": "Conception, développement, tests et présentation du projet 'Zoto' (une plateforme web pour les transporteurs et voyageurs à Madagascar). Réalisation du mémoire pour l’obtention de ma licence en Informatique.",
       "technologies": ["Laravel", "Blade", "PrelineUI", "EloquentORM", "MySQL"],
       "lien": "https://github.com/NiainaFitahiana1/zoto.git",
-      "source": "https://github.com/NiainaFitahiana1/zoto.git"
+      "source": "https://github.com/NiainaFitahiana1/zoto"
     }
   ]
 }
