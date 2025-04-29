@@ -38,6 +38,8 @@
   .btn-modal{
     background-color: #00BFA6 !important;
     border-radius:50% !important;
+    color:#64FFDA !important;
+      
   }
   .btn-accent {
     background: var(--accent);
