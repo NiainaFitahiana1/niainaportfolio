@@ -1,0 +1,69 @@
+{
+  "user": {
+    "nom": "MANOHITIANA",
+    "prenom": "Niaina Fitahiana",
+    "profil": "Développeur FullStack",
+    "bio": "Jeune développeur fullstack, motivé et passionné. Polyvalent, je m'adapte facilement aux différents projets. J'aime relever de nouveaux défis et trouver des solutions efficaces grâce à mon sens de la débrouille. Je travaille avec sérieux pour atteindre les objectifs fixés.",
+    "linkPhoto": "../assets/img/profil.jpg",
+    "telephone": "+261 33 61 428 48",
+    "email": "manohitiana@gmail.com",
+    "github": "https://github.com/NiainaFitahiana1",
+    "linkedin": "https://www.linkedin.com/in/niainafitahiana",
+    "adresse": "Lot II B59d Andoharanofotsy",
+    "age": 20
+  },
+  "skills": [
+    { "nom": "Laravel", "icon": "fa-brands fa-laravel", "niveau": 95 },
+    { "nom": "Spring Boot", "icon": "fa-brands fa-java", "niveau": 75 },
+    { "nom": "React", "icon": "fa-brands fa-react", "niveau": 70 },
+    { "nom": "Flask", "icon": "fa-solid fa-flask", "niveau": 70 },
+    { "nom": "NextJs", "icon": "fa-brands fa-js", "niveau": 50 }
+  ],
+
+  "services": [
+    {
+      "label": "Développement Web Fullstack",
+      "description": "Création de sites web modernes, responsives et optimisés, en combinant des technologies front-end et back-end performantes pour garantir une expérience utilisateur fluide et un site sécurisé."
+    },
+    {
+      "label": "Intégration et Développement sur Mesure",
+      "description": "Conception de fonctionnalités spécifiques et intégration d’API tierces pour des solutions web entièrement adaptées à vos besoins métiers."
+    },
+    {
+      "label": "Applications Mobiles Cross-Platform",
+      "description": "Développement d’applications mobiles intuitives et performantes pour Android et iOS en utilisant des frameworks comme Flutter ou React Native."
+    }
+  ],
+  "experiences": [
+    {
+      "titre": "Développeur web",
+      "type": "CDD",
+      "entreprise": "Gestion Guichet Stationnement",
+      "date": "Février 2025 - Présent",
+      "description": "Mise en place d’une application web de gestion guichet d’un stationnement qui vient de digitaliser Fasankarana.",
+      "technologies": ["Flask", "Jinja2", "Bootstrap", "MongoDB"],
+      "lien": "http://github.com/niaina/fikoma.git",
+      "source": "http://github.com/niaina/fikoma.git"
+    },
+    {
+      "titre": "Stagiaire développeur Java Spring Boot",
+      "type": "Stage",
+      "entreprise": "SAMIFIN",
+      "date": "Décembre 2024 – Février 2025",
+      "description": "Étude et conception de l'architecture d'une application web pour la collection des données externes. Développement de l'application, y compris la rédaction du code et les tests simultanés pour assurer la qualité et la performance des fonctionnalités.",
+      "technologies": ["SpringBoot", "DataJPA", "Microservices", "Thymeleaf", "MongoDB"],
+      "lien": "https://github.com/NiainaFitahiana1/spring-import",
+      "source": "https://github.com/NiainaFitahiana1/spring-import"
+    },
+    {
+      "titre": "Développeur Laravel",
+      "type": "Projet académique",
+      "entreprise": "Projet Zoto",
+      "date": "Juillet 2024 - Septembre 2024",
+      "description": "Conception, développement, tests et présentation du projet 'Zoto' (une plateforme web pour les transporteurs et voyageurs à Madagascar). Réalisation du mémoire pour l’obtention de ma licence en Informatique.",
+      "technologies": ["Laravel", "Blade", "PrelineUI", "EloquentORM", "MySQL"],
+      "lien": "https://github.com/NiainaFitahiana1/zoto.git",
+      "source": "https://github.com/NiainaFitahiana1/zoto.git"
+    }
+  ]
+}
