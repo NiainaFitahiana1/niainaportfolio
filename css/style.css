@@ -35,6 +35,10 @@
   .text-accent {
     color: var(--accent);
   }
+  .btn-modal{
+    background-color: #00BFA6 !important;
+    border-radius:50% !important;
+  }
   .btn-accent {
     background: var(--accent);
     color: var(--bg-primary);
